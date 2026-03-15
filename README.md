@@ -22,7 +22,7 @@ Charts:
 - Top Products by Sales (Bar Chart)
 
 ## Visualization
-![Sales Dashboard](dashboard_screenshot.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ## Key Insights
 - Identified top-performing products and categories
